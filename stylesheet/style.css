@@ -1,0 +1,30 @@
+.coloration {
+    color: red;
+}
+
+.bordure {
+    border: 1px solid black;
+}
+
+.bordurePlus {
+    border: 1px solid black;
+}
+
+.centrage {
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.footer1 {
+    background-color: antiquewhite;
+    height: 23rem;
+}
+
+.footerImg {
+    height:23rem;
+    width: 100%;
+}
+
+.ard-img-top {
+    height: 14rem;
+}
